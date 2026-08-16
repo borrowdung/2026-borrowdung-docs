@@ -52,7 +52,7 @@ Borrowdung adalah sistem peminjaman ruangan kampus berbasis web yang memungkinka
 
 API documentation tersedia di:
 - Swagger UI: http://localhost:5240/swagger
-- Repository: [2026-borrowdung-backend](https://github.com/diwanparker/2026-borrowdung-backend)
+- Repository: [2026-borrowdung-backend](https://github.com/borrowdung/2026-borrowdung-backend)
 
 ### Main Endpoints
 
@@ -103,11 +103,11 @@ API documentation tersedia di:
 
 1. **Clone semua repositories:**
    ```bash
-   git clone https://github.com/diwanparker/2026-borrowdung-backend.git
-   git clone https://github.com/diwanparker/2026-borrowdung-frontend.git
-   git clone https://github.com/diwanparker/2026-borrowdung-mobile.git
-   git clone https://github.com/diwanparker/2026-borrowdung-infrastructure.git
-   git clone https://github.com/diwanparker/2026-borrowdung-docs.git
+   git clone https://github.com/borrowdung/2026-borrowdung-backend.git
+   git clone https://github.com/borrowdung/2026-borrowdung-frontend.git
+   git clone https://github.com/borrowdung/2026-borrowdung-mobile.git
+   git clone https://github.com/borrowdung/2026-borrowdung-infrastructure.git
+   git clone https://github.com/borrowdung/2026-borrowdung-docs.git
    ```
 
 2. **Backend Setup:**
